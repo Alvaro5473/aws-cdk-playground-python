@@ -10,10 +10,14 @@ El objetivo es preparar el entorno para trabajar con AWS CDK con Python.
    asdf install nodejs 22.11.0
 ```
 
+![imagen](https://github.com/user-attachments/assets/e663ed6b-6832-4e60-a31a-732152286f9b)
+
 3. Verificar la instalación:
    ```bash
    cdk --version
    ```
+
+![imagen](https://github.com/user-attachments/assets/9e9c5911-f60c-44a0-9502-f3bdb68f9da1)
 
 4. Preparar el directorio del proyecto:
    ```bash
@@ -25,6 +29,8 @@ El objetivo es preparar el entorno para trabajar con AWS CDK con Python.
    ```bash
    cdk init app --language python
    ```
+
+![imagen](https://github.com/user-attachments/assets/4b2ef823-86a2-4286-83a1-b72907d16f65)
 
 6. Inicializad el entorno de CDK en vuestra cuenta de AWS:
    ```bash
